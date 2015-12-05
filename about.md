@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Arelos is an upcoming linux distribution based on the solid foundations of Ubuntu. We are creating not only a distro, but a desktop experience, with that awesome OS X UI ofcourse.
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact US
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[Just shoot us an email.](mailto:nasirsaqeef2001@gmail.com)
