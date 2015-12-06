@@ -9,7 +9,7 @@ Well long story short: Time. Creating a new distro; whether from scratch or base
 
 ### Whats happening now.
 
-Well, **A Lot** has been happening. Just to scratch the surface our two icon themes, [Pinbadge](https://github.com/Pinbadge/pinbadge-linux-theme) and [Cocoa](https://github.com/libredeb/cocoa-icon-theme) are going along very, *very* nicely. We are also working on our gnome based DE 'Ariel' and our waiting for the amazing elementary's gala-wm to stabilize a little bit.
+Well, **A Lot** has been happening. Just to scratch the surface our two icon themes, [Pinbadge](https://github.com/Pinbadge/pinbadge-linux-theme) and [Cocoa](https://github.com/libredeb/cocoa-icon-theme) are going along very, *very* nicely. We are also working on our gnome based DE 'Ariel' and are waiting for the amazing elementary's gala-wm to stabilize a little bit.
 
 ### Whats ahead.
 
