@@ -10,7 +10,7 @@ oops. We're late. But we're here. First off, we wish you a very Happy New Year! 
 # Images!
 Yes images. Real working ISO's that actually boot and login... well thats about it unfortunately. The desktop is usable but it's not a sight to behold thanks to an upstream bug with Ubuntu 16.04, which is understandable.
 
-![First Screenshot!](arelos_scrot.png)
+![First Scrot]({{ site.baseurl }}/images/arelos_scrot.png)
 
 Yeah. Once this is sorted out we'll be one more step closer to an alpha release!
 
