@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Monthly Update 2 - Happy New Year!
+title: "Monthly Update 2 - Happy New Year!"
+published: true
 ---
+
 
 oops. We're late. But we're here. First off, we wish you a very Happy New Year! We've done a lot of things this past month and we're eager to let you know.
 
