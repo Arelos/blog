@@ -3,7 +3,7 @@ layout: post
 title: Monthly Update 2 - Happy New Year!
 ---
 
-oops. We'ere late. But we're here. First off, we wish you a very Happy New Year! We've done a lot of things this past month and we're eager to let you know.
+oops. We're late. But we're here. First off, we wish you a very Happy New Year! We've done a lot of things this past month and we're eager to let you know.
 
 # Images!
 Yes images. Real working ISO's that actually boot and login... well thats about it unfortunately. The desktop is usable but it's not a sight to behold thanks to an upstream bug with Ubuntu 16.04, which is understandable.
